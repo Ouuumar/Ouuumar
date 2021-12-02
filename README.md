@@ -1,4 +1,4 @@
-### **Omar, student, dynamic, sportsperson and tech enthusiast** 💻💡
+### **Welcome ! I'm Omar 😃, a dynamic student, a sportsperson and tech enthusiast** 💻💡
 
 - 🔭 I'm looking for an end studies internship
   
@@ -10,7 +10,7 @@
   
 - 🌎 Passionate about cultures thourgh the planet
 
-### **Let's connect on LinkedIn ** 😊 :
+### **Let's connect on LinkedIn** 😊 :
 
 [<img align="center" alt="Omar ldn" width="60px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/ldn.png" />][linkedin]
 <br/>
