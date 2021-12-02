@@ -48,7 +48,7 @@
 
 <img align="left" alt="explAIner" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/xai.png" />
 
-<img align="left" alt="Pandas" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/kafka.png" />
+<img align="left" alt="Pandas" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/pandas.png" />
 
 <img align="left" alt="Numpy" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/numpy.png" />
 
