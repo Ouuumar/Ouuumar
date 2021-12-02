@@ -14,7 +14,7 @@
 
 ### **Let's connect on LinkedIn** :
 
-[<img align="left" alt="Omar ldn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Omar ldn" width="60px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/ldn.png" />][linkedin]
 <br/>
 
 ### **Languages and tools** :
