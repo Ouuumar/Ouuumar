@@ -60,18 +60,15 @@
 
 <img align="left" alt="Ubuntu" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/ubuntu.png" />
 
-
-
-
-
-
 <br/>
 <p> and more ... <p>
 <br/>
 
+
 ## **Certification** : 
 
-<img align="left" alt="Azure900" width="60px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/az900.png"
+
+<img align="center" alt="Azure900" width="60px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/az900.png"
 />
 ---
 
