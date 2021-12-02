@@ -6,7 +6,7 @@
   
 - 🥅 I want to develop and manage tasks, projects and a lot more !
   
-- ⚡ I'm also interested in different tech such as Cloud, blockchain ...
+- ⚡ I'm also interested in different tech such as Cloud, IoT, blockchain ...
   
 - 🌎 Passionate about cultures thourgh the planet
 
