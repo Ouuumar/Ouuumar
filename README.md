@@ -29,21 +29,37 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Spark" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/spark-logo-trademark.png" />
-<img align="left" alt="Hive" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/hive.png" />
-<img align="left" alt="Hbase" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/hbase.png" />
-<img align="left" alt="Mlflow" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/mlflow.png" />
-<img align="left" alt="Jupyter" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/Jupyter_logo.png" />
+
 <img align="left" alt="Hadoop" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/hadoop.png" />
-<img align="left" alt="explAIner" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/xai.png" />
-<img align="left" alt="Ubuntu" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/ubuntu.png" />
+
+<img align="left" alt="Hive" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/hive.png" />
+
+<img align="left" alt="Hbase" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/hbase.png" />
+
 <img align="left" alt="Kafka" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/kafka.png" />
-<img align="left" alt="Pandas" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/kafka.png" />
-<img align="left" alt="Numpy" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/numpy.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/tensorflow.png" />
-<img align="left" alt="Keras" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/keras.png" />
-<img align="left" alt="Matplotlib" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/matplotlib_logo.png" />
+
 <img align="left" alt="Sklearn" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/sklearn.png" />
+
+<img align="left" alt="Tensorflow" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/tensorflow.png" />
+
+<img align="left" alt="Keras" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/keras.png" />
+
+<img align="left" alt="Mlflow" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/mlflow.png" />
+
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/Jupyter_logo.png" />
+
+<img align="left" alt="explAIner" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/xai.png" />
+
+<img align="left" alt="Pandas" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/kafka.png" />
+
+<img align="left" alt="Numpy" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/numpy.png" />
+
+<img align="left" alt="Matplotlib" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/matplotlib_logo.png" />
+
 <img align="left" alt="Plotly" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/plotly.png" />
+
+<img align="left" alt="Ubuntu" width="26px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/ubuntu.png" />
+
 
 
 
