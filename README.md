@@ -1,6 +1,9 @@
 ### **Welcome ! I'm Omar 😃, a dynamic student, a sportsperson and tech enthusiast** 💻💡
 
-- 🔭 I will begin my end of studies internship at KEYRUS, as a Big Data & Cloud Developper ! Using tech such as GCP PubSub, GCP Composer, GCP BigQuery, Python, Azure DataFactory, Azure, Apache Kafka, Spark, SnowFlake DataBricks, ELK, SQL, Python, Scala, Java, Spark, PySpark, UNIX/LINUX...
+- 🔭 I will begin my end of studies internship at KEYRUS, as a Big Data & Cloud Developper ! 
+
+- Using tech such as GCP PubSub, GCP Composer, GCP BigQuery, Python, Azure DataFactory, Azure, Apache Kafka, Spark,
+SnowFlake DataBricks, ELK, SQL, Python, Scala, Java, Spark, PySpark, UNIX/LINUX...
   
 - 🌱 I’m a Master 2 Big Data & Machine Learning student at EFREI Paris
   
