@@ -1,17 +1,14 @@
 ### **Welcome ! I'm Omar 😃, a dynamic student, a sportsperson and tech enthusiast** 💻💡
 
-- 🔭 I will begin my end of studies internship at KEYRUS, as a Big Data & Cloud Developper ! 
-
-- Using tech such as GCP PubSub, GCP Composer, GCP BigQuery, Python, Azure DataFactory, Azure, Apache Kafka, Spark,
-SnowFlake DataBricks, ELK, SQL, Python, Scala, Java, Spark, PySpark, UNIX/LINUX...
+- 🔭 I'm a Data Engineer @Bomzai, a start-up specialized in Data engineering / Cloud / DevOps / Data consulting  
   
-- 🌱 I’m a Master 2 Big Data & Machine Learning student at EFREI Paris
+- 🌱 I’m graduated from EFREI Paris Engineering School, specialized in Big Data & AI
   
 - 🥅 I want to develop and manage tasks, projects and a lot more !
   
 - ⚡ I'm also interested in different tech such as Cloud, IoT, blockchain ...
   
-- 🌎 Passionate about cultures thourgh the planet
+- 🌎 Passionate about cultures/travels thourgh the planet
 
 ### **Let's connect on LinkedIn** 😊 :
 
