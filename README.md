@@ -1,4 +1,4 @@
-### **Welcome ! I'm Omar 😃, a dynamic student, a sportsperson and tech enthusiast** 💻💡
+### **Welcome ! I'm Omar 😃, a sportsperson and tech enthusiast** 💻💡
 
 - 🔭 I'm a Data Engineer @Bomzai, a start-up specialized in Data engineering / Cloud / DevOps / Data consulting  
   
