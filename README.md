@@ -8,7 +8,7 @@
   
 - ⚡ I'm also interested in different tech such as Cloud, IoT, blockchain ...
   
-- 🌎 Passionate about cultures/travels thourgh the planet
+- 🌎 Passionate about cultures/travels throurgh the planet
 
 ### **Let's connect on LinkedIn** 😊 :
 
