@@ -12,7 +12,7 @@
 
 ### **Let's connect on LinkedIn** 😊 :
 
-<img align="center" alt="Omar ldn" width="60px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/ldn.png" /> : https://www.linkedin.com/in/omar-allouache/
+<img align="center" alt="Omar ldn" width="60px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/ldn.png" />  https://www.linkedin.com/in/omar-allouache/
 
 <br/>
 
@@ -23,21 +23,15 @@
 <img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="Docker" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
 <img align="left" alt="Spark" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/spark-logo-trademark.png" />
-
 <img align="left" alt="Hadoop" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/hadoop.png" />
-
 <img align="left" alt="Hive" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/hive.png" />
-
 <img align="left" alt="Hbase" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/hbase.png" />
-
 <img align="left" alt="Kafka" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/kafka.png" />
-
 <img align="left" alt="Mlflow" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/mlflow.png" />
-
 <img align="left" alt="Ubuntu" width="45px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/ubuntu.png" />
 
+<br/>
 <br/>
 
 ## **Certification** 🎓 : 
@@ -45,7 +39,6 @@
 **AWS Cloud Practionner** :
 
 <img align="center" alt="AWSCP" width="60px" src="https://github.com/Ouuumar/Ouuumar/blob/main/images/AWS_cp.png"
-
 />
 
 **Azure 900** :
