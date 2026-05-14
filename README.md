@@ -1,6 +1,6 @@
 ### **Welcome ! I'm Omar 😃, a sportsperson and tech enthusiast** 💻💡
 
-- 🔭 I'm a Data Engineer @Bomzai, a start-up specialized in Data engineering / Cloud / DevOps / Data consulting  
+- 🔭 I'm a Data Engineer working with Snowflake, Python, SQL, cloud technologies and more ! 
   
 - 🌱 I’m graduated from EFREI Paris Engineering School (2023), specialized in Big Data & AI
   
